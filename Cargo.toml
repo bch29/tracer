@@ -1,0 +1,10 @@
+[package]
+name = "raytracer"
+version = "0.1.0"
+authors = ["Bradley Hardy <bradleyhardy@live.com>"]
+
+[dependencies]
+cgmath = "*"
+glium = "*"
+threadpool = "*"
+image = "*"
