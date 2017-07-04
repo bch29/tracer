@@ -7,3 +7,5 @@ pub mod object;
 mod types;
 mod material;
 mod partition;
+
+pub mod kdtree;
