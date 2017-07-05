@@ -1,5 +1,4 @@
 use types::*;
-use bounding_box::*;
 
 use cgmath::{Matrix4};
 
